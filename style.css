@@ -1,0 +1,15 @@
+.img-fluid{border-radius:4px;
+box-shadow: 2px 1px 2px 1px silver;}
+#bt{width:100px;
+height:28px;
+display:flex;
+align-items:center;
+justify-content:center;
+transition:2s;
+background-color:blue;
+color:white;}
+#bt:hover{background-color:black;
+color:white;
+text-transform:capitalize;
+
+}
